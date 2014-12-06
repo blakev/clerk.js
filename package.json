@@ -1,0 +1,27 @@
+{
+  "name": "clerk.js",
+  "version": "1.0.0",
+  "description": "JSON structured application forms.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blakev/clerk.js.git"
+  },
+  "keywords": [
+    "JSON",
+    "data",
+    "application",
+    "form",
+    "middleware",
+    "generator"
+  ],
+  "author": "Blake VandeMerwe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakev/clerk.js/issues"
+  },
+  "homepage": "https://github.com/blakev/clerk.js"
+}
